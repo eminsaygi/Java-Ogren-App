@@ -69,9 +69,9 @@ Scripts {
 
   }
 
-## Videos
+## Emulator Videos
 
-IOS Simulators | Android Simulators  
+IOS Emulator | Android Emulator  
 :-------------------------: | :-------------------------:
 ![Preview](/assets/img/iosGif.gif) | ![Preview](/assets/img/AndroidGif.gif)
 
